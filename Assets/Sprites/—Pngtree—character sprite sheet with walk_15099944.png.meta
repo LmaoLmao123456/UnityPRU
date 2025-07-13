@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 2927d39fb6d038c468d4a911fe2c94c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5599358029996995578
+    second: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_0"
+  - first:
+      213: 7502366334533034391
+    second: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_1"
+  - first:
+      213: -420584916335438323
+    second: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_2"
+  - first:
+      213: -7777142958489518022
+    second: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_3"
+  - first:
+      213: 3463396203698962219
+    second: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_4"
+  - first:
+      213: 7528366303129567119
+    second: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_5"
+  - first:
+      213: -2568974798809616226
+    second: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_6"
+  - first:
+      213: 5560843161464689670
+    second: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_7"
+  - first:
+      213: 3103850042334131459
+    second: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_8"
+  - first:
+      213: -8484233397555731891
+    second: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_9"
+  - first:
+      213: 5455743336528349224
+    second: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_10"
+  - first:
+      213: 2125023087671532477
+    second: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_11"
+  - first:
+      213: -2613011024287862619
+    second: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_12"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_0"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1660
+        width: 483
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c4cc3d9851b42b0800000000000000
+      internalID: -5599358029996995578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_1"
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1658
+        width: 490
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791e0b89e62cd1860800000000000000
+      internalID: 7502366334533034391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_2"
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1659
+        width: 487
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0650f73f38c92af0800000000000000
+      internalID: -420584916335438323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_3"
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 1668
+        width: 499
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a304dcf2fa9021490800000000000000
+      internalID: -7777142958489518022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_4"
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 898
+        width: 563
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fb9e55f74701030800000000000000
+      internalID: 3463396203698962219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_5"
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 898
+        width: 355
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ffe0504412a7860800000000000000
+      internalID: 7528366303129567119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_6"
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 897
+        width: 360
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90b500180b295cd0800000000000000
+      internalID: -2568974798809616226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_7"
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 895
+        width: 379
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60453ca84651c2d40800000000000000
+      internalID: 5560843161464689670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_8"
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 887
+        width: 136
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30538692b27131b20800000000000000
+      internalID: 3103850042334131459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_9"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 68
+        width: 632
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d426f232da2f14a80800000000000000
+      internalID: -8484233397555731891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_10"
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 78
+        width: 357
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8280a77a8a1b6bb40800000000000000
+      internalID: 5455743336528349224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_11"
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 77
+        width: 350
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb5a284d399d7d10800000000000000
+      internalID: 2125023087671532477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014character sprite sheet with walk_15099944_12"
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 78
+        width: 446
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a074275158bcbbd0800000000000000
+      internalID: -2613011024287862619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014character sprite sheet with walk_15099944_0": -5599358029996995578
+      "\u2014Pngtree\u2014character sprite sheet with walk_15099944_1": 7502366334533034391
+      "\u2014Pngtree\u2014character sprite sheet with walk_15099944_10": 5455743336528349224
+      "\u2014Pngtree\u2014character sprite sheet with walk_15099944_11": 2125023087671532477
+      "\u2014Pngtree\u2014character sprite sheet with walk_15099944_12": -2613011024287862619
+      "\u2014Pngtree\u2014character sprite sheet with walk_15099944_2": -420584916335438323
+      "\u2014Pngtree\u2014character sprite sheet with walk_15099944_3": -7777142958489518022
+      "\u2014Pngtree\u2014character sprite sheet with walk_15099944_4": 3463396203698962219
+      "\u2014Pngtree\u2014character sprite sheet with walk_15099944_5": 7528366303129567119
+      "\u2014Pngtree\u2014character sprite sheet with walk_15099944_6": -2568974798809616226
+      "\u2014Pngtree\u2014character sprite sheet with walk_15099944_7": 5560843161464689670
+      "\u2014Pngtree\u2014character sprite sheet with walk_15099944_8": 3103850042334131459
+      "\u2014Pngtree\u2014character sprite sheet with walk_15099944_9": -8484233397555731891
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
